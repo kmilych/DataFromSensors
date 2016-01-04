@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DataFromSensors</string>
+    <string name="Accelerometer">Accelerometer</string>
+    <string name="acceleraton">X: Y: Z:</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">Light</string>
 </resources>
