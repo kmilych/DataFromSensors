@@ -4,4 +4,6 @@
     <string name="acceleraton">X: Y: Z:</string>
     <string name="proximity">Proximity</string>
     <string name="light">Light</string>
+    <string name="signal_strength">Signal stregnth</string>
+    <string name="GPS">GPS</string>
 </resources>
